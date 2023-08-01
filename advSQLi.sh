@@ -20,10 +20,10 @@ echo -e "\e[1;31m      v:::::v:::::v                  S:::::SQ:::::O  QQQQ:::::Q
 echo -e "\e[1;31m       v:::::::::v                   S:::::SQ::::::O Q::::::::Q  L:::::L         LLLLLL i::::i \e[0m"
 echo -e "\e[1;31m        v:::::::v        SSSSSSS     S:::::SQ:::::::QQ::::::::QLL:::::::LLLLLLLLL:::::Li::::::i \e[0m"
 echo -e "\e[1;31m         v:::::v         S::::::SSSSSS:::::S QQ::::::::::::::Q L::::::::::::::::::::::Li::::::i \e[0m"
-echo -e "\e[1;31m          v:::v          S:::::::::::::::SS    QQ:::::::::::Q  L::::::::::::::::::::::Li::::::i \e[0m"
+echo -e "\e[1;31m    adv.  v:::v          S:::::::::::::::SS    QQ:::::::::::Q  L::::::::::::::::::::::Li::::::i \e[0m"
 echo -e "\e[1;31m           vvv            SSSSSSSSSSSSSSS        QQQQQQQQ::::QQLLLLLLLLLLLLLLLLLLLLLLLLiiiiiiii \e[0m"
 echo -e "\e[1;31m                                                         Q:::::Q \e[0m"
-echo -e "\e[1;31m                                                          QQQQQQ \e[0m"
+echo -e "\e[1;31m                                                          QQQQQQ v1 \e[0m" 
 echo -e "\e[1;31m ---------------------------------visit www.github.com/hacksudo----------------------------- \e[0m"
 echo -e  "\e[1;31m -------------------------------- Author - vishal waghmare----------------------------------- \e[0m"
 }
