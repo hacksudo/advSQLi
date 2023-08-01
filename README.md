@@ -1,0 +1,3 @@
+# advSQLi
+This tools made for Ravana OS , this is just demo tool , stay tune with us for New and best OS which  one coming soon.......
+visit www.hacksudo.com
