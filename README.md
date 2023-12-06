@@ -23,7 +23,7 @@ Here're some of the project's best features:
 <p>1. copy paste this in your system</p>
 
 ```
-git clone https://github.com/hacksudo/advSQLi Step 
+git clone https://github.com/hacksudo/advSQLi  
 ```
 
 <p>2. change directory</p>
